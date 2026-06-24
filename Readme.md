@@ -1,6 +1,6 @@
 # Flexbox-&-Grid-Assignment
 
-Your task is to replicate the [Minimalissimo/about](https://minimalissimo.com/suggest) site (using `FLEXBOX`, `GRID` and `responsive design`).
+Your task is to replicate the [Minimalissimo/about]([https://minimalissimo.com/suggest](https://minimalissimo.com/about)) site (using `FLEXBOX`, `GRID` and `responsive design`).
 
 ## What to build
 
